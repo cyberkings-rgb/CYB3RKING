@@ -1,4 +1,21 @@
+<section id="money-phone" style="padding:40px 20px; border-bottom:2px solid #00ff00; text-align:center;">
+  <h2 style="text-shadow:0 0 5px #00ff00,0 0 10px #00ff00;">Earn Money with Your Phone Number</h2>
 
+  <p style="color:#00ff00; font-size:18px; line-height:1.6;">
+    You can discover ways to earn money using your phone number. Just follow trusted methods and legal tips to start earning today!
+  </p>
+
+  <img src="https://cdn-icons-png.flaticon.com/512/1017/1017411.png" 
+       alt="Money and Phone" 
+       style="width:200px; margin:20px; filter: drop-shadow(0 0 10px #00ff00);">
+
+  <p style="color:#00ff00; font-size:16px;">Phone Number: <strong>0613467872</strong></p>
+
+  <a href="https://example.com/money-tips" target="_blank" 
+     style="display:inline-block; background-color:#00ff00; color:black; padding:12px 25px; text-decoration:none; font-weight:bold; box-shadow:0 0 10px #00ff00; transition:0.3s;">
+    Learn How
+  </a>
+</section>
  
 # <div align="center"><img src="https://user-images.githubusercontent.com/42608897/117810182-afcbf400-b27c-11eb-85fa-69c3b2a23921.gif"  width="70" height="50"/>&nbsp; HELLO GUY'S, I'M CYB3R KING &nbsp; <img src="https://user-images.githubusercontent.com/42608897/117810182-afcbf400-b27c-11eb-85fa-69c3b2a23921.gif" alt="Technologist" width="70" height="50"/> </div>
 
